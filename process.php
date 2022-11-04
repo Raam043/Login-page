@@ -4,7 +4,7 @@ $pass=$_POST['password'];
 
 include("includes/connect.php");
 
- $q="select * from student where email='$email' and pas='$pass'";
+ $q="select * from user where email='$email' and pas='$pass'";
  $res=mysqli_query($connect,$q);
  $flag=0;
  
