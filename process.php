@@ -13,7 +13,8 @@ include("includes/connect.php");
      if($data['email']==$email && $data['pas']==$pass)
      {
          $flag=1;
-       echo "main.html";
+       echo "main.html"
+       header('Location: main.html');
      }
      
  
