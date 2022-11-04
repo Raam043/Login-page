@@ -13,7 +13,7 @@ include("includes/connect.php");
      if($data['email']==$email && $data['pas']==$pass)
      {
          $flag=1;
-       echo " Login sucessful";
+       echo "main.html";
      }
      
  
