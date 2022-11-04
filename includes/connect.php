@@ -2,8 +2,8 @@
 
 $server="localhost";
         $database="login";
-        $username="student";
-        $password="Soni@1995";
+        $username="sai@gmail.com";
+        $password="sai@2019";
         
  if($connect=mysqli_connect($server,$username,$password,$database))
  {
