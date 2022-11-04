@@ -28,7 +28,7 @@ Make app directory and add Application files using git clone
 rm -rf /opt/login-page/*
 mkdir /opt/login-page
 cd /opt/login-page
-git clone https://github.com/Raam043/Lagin-page.git
+git clone https://github.com/Raam043/Login-page.git
 cp /opt/login-page/Login-page/* /opt/login-page
 
 ```
