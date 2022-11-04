@@ -1,6 +1,6 @@
 <?php
 
-$server="localhost";
+$server="apache2";
         $database="login";
         $username="sai@gmail.com";
         $password="sai@2019";
